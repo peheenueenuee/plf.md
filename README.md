@@ -1,34 +1,41 @@
 # plf.md
 #### Environs du port  extérieur jour
 
-*Retour sur l'entrée du quai-entrepôt. L 'Autobianchi
-arrive devant la grille et klaxonne. Ferdinand sort
-et appuie sur la sonnette (bruit de klaxon rauque).
-Le gardien et son chien sortent de leur baraque pen·
-dant que Ferdinand ouvre la gril/le. Ils échangent
-un mot. Ferdinand se met à courir à droite (pano·
-ramiqueJ, fa;r le tour de l'embarcadère, et arrive au
-moment où le yacht s'éloigne.*
+> *Retour sur l'entrée du quai-entrepôt. L 'Autobianchi
+> arrive devant la grille et klaxonne. Ferdinand sort
+> et appuie sur la sonnette (bruit de klaxon rauque).
+> Le gardien et son chien sortent de leur baraque pen·
+> dant que Ferdinand ouvre la gril/le. Ils échangent
+> un mot. Ferdinand se met à courir à droite (pano·
+> ramiqueJ, fa;r le tour de l'embarcadère, et arrive au
+> moment où le yacht s'éloigne.*
 
 **FERDINAND.** Marianne ! Marianne !
-*Elle se lève à l'arrière du bateau, et lui fait de
-grands signes d'adieu. Le yacht sort à droitf!. Fin
-m usique. Ferdinand longe l'embarcadère, désemparé.
-On le reprend en plan moyen face à nous parmi de
-la ferraille au coin du quai. On entend un piano
-solo.*
+
+> *Elle se lève à l'arrière du bateau, et lui fait de
+> grands signes d'adieu. Le yacht sort à droitf!. Fin
+> m usique. Ferdinand longe l'embarcadère, désemparé.
+> On le reprend en plan moyen face à nous parmi de
+> la ferraille au coin du quai. On entend un piano
+> solo.*
+
 **RAYMOND DEVOS (off).** Laa ... lalalaa ... laaa.
-  *Ferdinand s'approche (panoramique gauche) de l'homme, 
-  assis au bord du quai, 
-  et s'assied à côté de lui en plan rapproché.*
+
+>  *Ferdinand s'approche (panoramique gauche) de l'homme, 
+>  assis au bord du quai, 
+>  et s'assied à côté de lui en plan rapproché.*
+  
 **FERDINAND.** Ça va pas, mon vieux ?
+
 **DEVOS.** Ah, cet air-là, vous ne pouvez pas savoir ce que ça évoque pour moi. Cet air, vous entendez, là ?
 
 **FERDINAND.** Non, j'entends rien.
-  *Ferdinand allume une cigarette pendant que Devos commence son histoire, 
-  gesticule, 
-  mime toutes les scènes qu'tl décrit, 
-  ses mains racontant aussi bien que ses paroles.*
+
+>  *Ferdinand allume une cigarette pendant que Devos commence son histoire, 
+>  gesticule, 
+>  mime toutes les scènes qu'tl décrit, 
+>  ses mains racontant aussi bien que ses paroles.*
+  
 **DEVOS.** Cet air-là, moi, c'est toute ma vie, toute ma vie. 
 Ca me chrrrrr... 
 Quand je l'entends, ça me chrr... Un jour, vous savez, j'étais chez moi, ça jouait ça : (il chante.) lalala. 
@@ -72,21 +79,33 @@ cet air, je ne peux plus le supporter !
 (*se calmant.*) Vous entendez ?
 Vous entendez ? Je ne peux plus le supporter. cet air !
 Vous entendez ?
+
 **FERDINAND.** Non !
+
 **DEVOS.** Cet air, là, que vous entendez !
+
 **FERDINAND.** Non !
+
 **DEVOS.** Vous entendez rien ?
+
 **FERDINAND.** Non !
-*Ferdinand se lève, Devos également.*
+
+> *Ferdinand se lève, Devos également.*
+
 **DEVOS.** Dites que je suis fou !
 Non, mais dites tout de suite que je suis fou !
 Dites ! J'aimerais vous entendre dire : « Vous êtes fou >>.
 Dites : « Vous êtes fou >>.
+
 **FERDINAND.** Vous êtes fou.
-*Il sort sur la droire.*
+
+> *Il sort sur la droire.*
+
 **DEVOS.** Eh ben, je préfère. J'aime mieux ça.
+
 **FERDINAND (off).** Hep !
-*Devos le regarde hors champ à droite et fait signe du doigt sur la tempe que Ferdinand est fou.*
+
+> *Devos le regarde hors champ à droite et fait signe du doigt sur la tempe que Ferdinand est fou.*
 
 ___
 *Plan d'ensemble sur l'autre côté de l'embarcadère.
