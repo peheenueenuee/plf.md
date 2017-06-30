@@ -3056,28 +3056,6 @@ ne Ferdinand.
 
 105
 
-me dit : << Ça fait dix minutes qu'elle est dans la
-vôtre». Je lui ai dit : « Oui, tiens. c'est vrai, oui 1 >>
-(il chante.) Lalala, lala ... Alors je l'ai gardée. (devenant hystérique.) Lalala, dix ans ! Lalala, lalala, lalala,
-dix ans 1 dix ans 1 cet air, je ne peux plus le supporter ! (la musique s'arrête.} Je ne peux plus le
-supporter ! (se calmant.) Vous entendez ? Vous entendez ? Je ne peux plus le supporter. cet air !
-Vous entendez ?
-FERDINAND. Non !
-**DEVOS.** Cet air, là, que vous entendez
-**FERDINAND.** Non !
-**DEVOS.** Vous entendez rien ?
-**FERDINAND.** Non !
-Ferdinand se lève, Devos également.
-DEVOS. Dites que je suis fou 1 Non, mais dites tout
-de suite que je suis fou ! Dites 1 J'aimerais vous
-entendre dire : « Vous êtes fou >>. Dites : « Vous
-êtes fou >>.
-FERDINAND. Vous êtes fou.
-Il sort sur le dro;re.
-DEVOS. Eh ben, je préfère. J'aime mieux ça .
-FERDINAND (off). Hep 1
-Devos le regarde hors champ à droite et fait signe
-du doigt sur la tempe que Ferdinand est fou.
 
 Gros plan sur Marianne dans les bras de Fred, assis
 a la poupe du yacht. Il porte un tee-shirt à rayures
@@ -3088,6 +3066,7 @@ brassent. Off, on entend Ferdinand qui con tinue à
 co mpter. A 109, sa voix s'estompe et disparait sous
 la musique qui s'amplifie.
 
+***
 #### Environs du port  extérieur jour
 
 *Retour sur l'entrée du quai-entrepôt. L 'Autobianchi
@@ -3098,6 +3077,7 @@ dant que Ferdinand ouvre la gril/le. Ils échangent
 un mot. Ferdinand se met à courir à droite (pano·
 ramiqueJ, fa;r le tour de l'embarcadère, et arrive au
 moment où le yacht s'éloigne.*
+
 **FERDINAND.** Marianne ! Marianne !
 *Elle se lève à l'arrière du bateau, et lui fait de
 grands signes d'adieu. Le yacht sort à droitf!. Fin
@@ -3149,19 +3129,43 @@ Je lui avais pris la main,. et puis, je la caressais dans les deux sens parce qu
 Je lui ai dit : (*il chante.*) « Est-ce que vous m'aimez ? »
 Elle m'avait dit : « Oui, monsieur >>. 
 Je lui ai dit : « Est·ce que vous voulez m'accorder votre main ? >>
-Elle
+Elle me dit : << Ça fait dix minutes qu'elle est dans la vôtre».
+Je lui ai dit : « Oui, tiens. c'est vrai, oui ! >>
+(*il chante.*) Lalala, lala...
+Alors je l'ai gardée.
+(*devenant hystérique.*) Lalala, dix ans !
+Lalala, lalala, lalala, dix ans ! dix ans !
+cet air, je ne peux plus le supporter !
+(*la musique s'arrête.*) Je ne peux plus le supporter !
+(*se calmant.*) Vous entendez ?
+Vous entendez ? Je ne peux plus le supporter. cet air !
+Vous entendez ?
+**FERDINAND.** Non !
+**DEVOS.** Cet air, là, que vous entendez !
+**FERDINAND.** Non !
+**DEVOS.** Vous entendez rien ?
+**FERDINAND.** Non !
+*Ferdinand se lève, Devos également.*
+**DEVOS.** Dites que je suis fou !
+Non, mais dites tout de suite que je suis fou !
+Dites ! J'aimerais vous entendre dire : « Vous êtes fou >>.
+Dites : « Vous êtes fou >>.
+**FERDINAND.** Vous êtes fou.
+*Il sort sur la droire.*
+**DEVOS.** Eh ben, je préfère. J'aime mieux ça.
+**FERDINAND (off).** Hep !
+*Devos le regarde hors champ à droite et fait signe du doigt sur la tempe que Ferdinand est fou.*
 
-
-
-106
-Plan d'ensemble sur l'autre côté de l'embarcadère.
+___
+*Plan d'ensemble sur l'autre côté de l'embarcadère.
 Ferdinand saute à la poupe d 'un petit bateau de
 pêche aux couleurs vives. Il s'approche de la ca·
-bine.
+bine.*
 
-Bateau de pêche - extérieur jour
-Vu de la poupe, Ferdinand, en plan moyen est à
-droite de la cabine.
+***
+#### Bateau de pêche - extérieur jour
+
+*Vu de la poupe, Ferdinand, en plan moyen est à droite de la cabine.*
 
 :g
 ,...
